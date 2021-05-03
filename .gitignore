@@ -120,10 +120,15 @@ venv.bak/
 # mkdocs documentation
 /site
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+idea/
+.idea/
+..idea/
+youtube/settings.py
+settings.py
+__pycache__
+/__pycache__/
+__pycache__/
+*.pyc
 
-# Pyre type checker
-.pyre/
+#Migrations
+migrations/
